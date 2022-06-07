@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon -x npm run test",
+    "dev": "node src/index.js",
     "test": "jest"
   },
   "author": "",
